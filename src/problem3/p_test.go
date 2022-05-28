@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestTwoSum(t *testing.T) {
+func TestLengthOfLongestSubstring(t *testing.T) {
 	inputs := []struct {
 		input  string
 		output int
