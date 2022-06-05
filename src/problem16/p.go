@@ -1,4 +1,4 @@
-package problem15
+package problem16
 
 import "sort"
 
