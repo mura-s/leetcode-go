@@ -1,4 +1,4 @@
-package problem242
+package problem733
 
 func floodFill(image [][]int, sr int, sc int, color int) [][]int {
 	curColor := image[sr][sc]
